@@ -52,7 +52,7 @@ export class TableRow extends React.PureComponent<Partial<TableBodyProps>> {
                     width: "100%",
                     display: "flex",
                     flexDirection: "row",
-                    justifyContent: "stretch"
+                    justifyContent: "center"
                 }}
             >
                 {
